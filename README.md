@@ -10,3 +10,10 @@ There is little information on the internet about how to p2p the esp8266.  The m
 client.setNoDelay(1) must be used or transmission will be slow due to the Nagle algorithm.
 
 Any calls to server.available() will disconnect the current client.  For multiple clients a array and queue can be used to keep previous connections alive (google examples).
+
+================================================================================
+
+Cabo Frio 02 de Maio de 2020
+----------------------------
+
+ - Começo dos estudos para criar o WireLan 20:22
